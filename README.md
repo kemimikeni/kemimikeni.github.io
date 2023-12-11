@@ -2,17 +2,6 @@
  <span style="color:blue"> **Kimi Makaela Aquino**</span>.
 
 # Bruno Major
-<div class="embed-spotify-list">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0hDjKSKjl1DC7ovYTDJHe8?utm_source=generator" width="100%" 
- height="352" 
- frameBorder="0" 
-allowfullscreen="" 
- allow="autoplay; 
- clipboard-write; 
- encrypted-media; 
- fullscreen; picture-in-picture" 
- loading="lazy"></iframe>
-
 
 ![Facade](https://aphrodite.gmanetwork.com/entertainment/articles/900_675_4_-20230505131944.jpg)
 
@@ -41,4 +30,15 @@ To Let a Good Thing Die is the second studio album from singer-songwriter Bruno 
 **Columbo**
 
 The album Columbo holds a special significance for Major, as it represents a period of personal crisis and reflection. It explores a mix of autobiographical and observational themes, expanding Bruno's musical boundaries and showcasing his most accomplished work to date.
+
+<div class="embed-spotify-list">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0hDjKSKjl1DC7ovYTDJHe8?utm_source=generator" width="100%" 
+ height="352" 
+ frameBorder="0" 
+allowfullscreen="" 
+ allow="autoplay; 
+ clipboard-write; 
+ encrypted-media; 
+ fullscreen; picture-in-picture" 
+ loading="lazy"></iframe>
 
