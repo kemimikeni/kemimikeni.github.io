@@ -2,7 +2,7 @@
  <span style="color:blue"> **Kimi Makaela Aquino**</span>.
 
 # Bruno Major
-https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8?si=CedDfuYZQrWMWsh_7Y0cQQ
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0hDjKSKjl1DC7ovYTDJHe8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ![Facade](https://aphrodite.gmanetwork.com/entertainment/articles/900_675_4_-20230505131944.jpg)
 
